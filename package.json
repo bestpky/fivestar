@@ -1,0 +1,32 @@
+{
+  "name": "fivestar",
+  "version": "1.0.0",
+  "description": "react 五星评分组件",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "dependencies": {
+    "@types/react": "^16.7.6",
+    "react": "^16.8.6",
+    "typescript": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compile": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHAACC/five-star-grade-group.git"
+  },
+  "keywords": [
+    "五星评分",
+    "five star group",
+    "grade"
+  ],
+  "author": "pky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHAACC/five-star-grade-group/issues"
+  },
+  "homepage": "https://github.com/CHAACC/five-star-grade-group#readme"
+}

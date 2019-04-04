@@ -1,0 +1,14 @@
+.single-star{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background: url('../default.png') no-repeat;
+    background-size: 20px 20px;
+}
+.inner{
+    position: absolute;
+    height: 20px;
+    background: url('../active.png') no-repeat;
+    background-size: 20px 20px;
+}
